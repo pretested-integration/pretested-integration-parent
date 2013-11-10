@@ -1,0 +1,6 @@
+[submodule "mercurial"]
+	path = mercurial
+	url = git@github.com:rlindsgaard/mercurial-plugin.git
+[submodule "pretested-integration"]
+	path = pretested-integration
+	url = git@github.com:rlindsgaard/pretested-integration-plugin.git
